@@ -1,3 +1,5 @@
+###Open UCI folder for run_analysis.R file
+
 # GettingAndCleaningCP
 The process does the following
 
